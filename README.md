@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 <img src="https://avatars.githubusercontent.com/u/314135?s=200&v=4" width="40"/>
 
 <!-- CapCut -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/CapCut_Logo.png" width="40"/>
-</p>
+<img src="https://cdn.simpleicons.org/capcut/000000" width="40"/>
 
 ---
 
