@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 <img src="https://avatars.githubusercontent.com/u/314135?s=200&v=4" width="40"/>
 
 <!-- CapCut -->
-<img src="https://cdn.simpleicons.org/capcut/000000" width="40"/>
-
+<img src="https://seeklogo.com/images/C/capcut-logo-6B2C9C6A0D-seeklogo.com.png" width="40"/>
 ---
 
 🎬 Video Editing Skills
