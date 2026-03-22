@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Subhadeep+Garai;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Python+%7C+NumPy+%7C+Pandas;Welcome+to+my+GitHub+Profile" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Subhadeep+Garai;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Python+%7C+NumPy+%7C+Pandas;Video+Editor+(CapCut);Welcome+to+my+GitHub+Profile" />
 </h1>
+
 ⚡Technical Skills
-
-
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -34,8 +33,18 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
 <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" width="40"/>
 <img src="https://avatars.githubusercontent.com/u/314135?s=200&v=4" width="40"/>
+
+<!-- CapCut -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/CapCut_Logo.png" width="40"/>
 </p>
 
+---
+
+🎬 Video Editing Skills
+
+- CapCut (Reels, Shorts, Transitions, Effects)
+- Short-form Content Editing
+- Basic Color Grading & Transitions
 
 
 ## 🌐 Connect With Me
