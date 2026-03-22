@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <!-- CapCut -->
 <img src="https://seeklogo.com/images/C/capcut-logo-6B2C9C6A0D-seeklogo.com.png" width="40"/>
----
+
 
 🎬 Video Editing Skills
 
