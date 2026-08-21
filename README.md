@@ -56,20 +56,20 @@ Status: Always Learning
 Mode: BUILD → BREAK → FIX
 ```
 
-## `CONNECT`
+## `CONNECT WITH ME`
 
 <p align="center">
 
 <a href="https://github.com/Subhadeep2007">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
+<a href="https://www.linkedin.com/in/subhadeep-garai-68a610326/">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
 </a>
 
-<a href="YOUR_WHATSAPP_URL">
-  <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=39FF14" />
+<a href="https://wa.me/917362999707">
+  <img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=39FF14" />
 </a>
 
 </p>
