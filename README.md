@@ -8,17 +8,9 @@
 </div>
 
 ---
-<div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/Subhadeep2007/Subhadeep2007/main/animation.gif"
-  width="700"
-  alt="Developer Animation"
-/>
-
-</div>
 ---
-## 🟢 `USER_PROFILE`
+ 🟢 `USER_PROFILE`
 
 ```text
 ┌────────────────────────────┐
