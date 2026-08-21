@@ -8,7 +8,17 @@
 </div>
 
 ---
+<div align="center">
 
+<img 
+  src="./subhadeep-readme-animation(1).gif"
+  width="500"
+  alt="Developer Animation"
+/>
+
+</div>
+
+---
 ---
  🟢 `USER_PROFILE`
 
