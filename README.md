@@ -190,9 +190,9 @@ Mode: BUILD → BREAK → FIX
 │   └── Find developers and collaborate
 │       Real-time collaboration platform
 │
-└── ♟️ CHESS
-    └── Classic chess game
-        Built with modern web technologies
+└── ♟️ WANDERLUST
+    └── Hotel booking platform
+        Built with ejs
 ```
 
 ---
