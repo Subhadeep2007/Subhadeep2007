@@ -10,10 +10,10 @@
 ---
 <div align="center">
 
-<img 
-  src="./subhadeep-readme-animation(1).gif"
-  width="500"
-  alt="Developer Animation"
+<img
+  src="./matrix-hacker-banner.png"
+  width="100%"
+  alt="Subhadeep2007 Hacker Developer"
 />
 
 </div>
