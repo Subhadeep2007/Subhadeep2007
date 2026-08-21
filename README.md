@@ -9,19 +9,6 @@
 
 ---
 
-
----<!-- VIDEO / ANIMATED INTRO -->
-
-<div align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/Subhadeep2007/Subhadeep2007/main/assets/animation.gif"
-  width="700"
-  alt="Developer Animation"
-/>
-
-</div>
-
 ---
 ## 🟢 `USER_PROFILE`
 
