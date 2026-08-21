@@ -1,54 +1,317 @@
- Hi there 👋
+ # <div align="center">`> SUBHADEEP2007_ SYSTEM BOOTED`</div>
 
-<!--
-**SubhadeepGarai2006/SubhadeepGarai2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+ACCESS+GRANTED...;%3E+SUBHADEEP+GARAI;%3E+FULL+STACK+DEVELOPER+%7C+PROBLEM+SOLVER;%3E+BUILDING+REAL-TIME+SYSTEMS..." />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Subhadeep+Garai;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Python+%7C+NumPy+%7C+Pandas;Video+Editor+(CapCut);Welcome+to+my+GitHub+Profile" />
-</h1>
+</div>
 
-⚡Technical Skills
+---
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" width="40"/>
-<img src="https://avatars.githubusercontent.com/u/314135?s=200&v=4" width="40"/>
+<table>
+<tr>
+<td width="30%" valign="top">
 
-<!-- CapCut -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/capcut.svg" width="40"/>
+## 🟢 `USER_PROFILE`
 
-🎬 Video Editing Skills
+```text
+┌────────────────────────────┐
+│      [ SYSTEM USER ]       │
+├────────────────────────────┤
+│ NAME                       │
+│ Subhadeep Garai            │
+│                            │
+│ ROLE                       │
+│ Full Stack Developer       │
+│                            │
+│ LOCATION                   │
+│ India 🇮🇳                   │
+│                            │
+│ STATUS                     │
+│ ● ONLINE / CODING          │
+└────────────────────────────┘
+```
 
-- CapCut (Reels, Shorts, Transitions, Effects)
-- Short-form Content Editing
-- Basic Color Grading & Transitions
+### `> developer.info`
 
+```bash
+$ location
+India 🇮🇳
 
-## 🌐 Connect With Me
+$ current_focus
+Web Development
+Backend Systems
+Real-Time Applications
+AI / ML
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917362999707?text=Hello%20Subhadeep)
+$ motto
+"Stay Curious.
+ Keep Building."
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadeep-garai-68a610326/)
+<br/>
 
+## `SYSTEM_INFO`
 
+```yaml
+OS: Windows
+IDE: VS Code
+Shell: PowerShell
+Status: Always Learning
+Mode: BUILD → BREAK → FIX
+```
 
+<br/>
+
+## `CONNECT`
+
+<a href="https://github.com/Subhadeep2007">
+<img src="https://img.shields.io/badge/GITHUB-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="YOUR_WHATSAPP_URL">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="70%" valign="top">
+
+# `$ whoami`
+
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│        ███████╗██╗   ██╗██████╗ ██╗  ██╗ █████╗              │
+│        ██╔════╝██║   ██║██╔══██╗██║  ██║██╔══██╗             │
+│        ███████╗██║   ██║██████╔╝███████║███████║             │
+│        ╚════██║██║   ██║██╔══██╗██╔══██║██╔══██║             │
+│        ███████║╚██████╔╝██████╔╝██║  ██║██║  ██║             │
+│        ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+# 🟢 `SUBHADEEP GARAI`
+
+### `FULL STACK DEVELOPER & PROBLEM SOLVER`
+
+```text
+[ Building Scalable Web Apps | Clean Code | Real-Time Systems ]
+```
+
+</div>
+
+---
+
+## `$ skills --show`
+
+### `FRONTEND`
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" />
+
+### `BACKEND`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python&theme=dark" />
+
+### `TOOLS & SYSTEM`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
+
+---
+
+## `$ current_focus`
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  [✓] Building production-style backend systems       │
+│  [✓] Node.js + Express.js architecture               │
+│  [✓] MongoDB & database design                       │
+│  [✓] Real-time systems with Socket.IO                │
+│  [→] Improving system design                         │
+│  [→] Preparing for AI / ML                           │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+### `SYSTEM_PROGRESS`
+
+```text
+██████████████████████████████████████░░  90%
+```
+
+`STATUS: LOADING NEXT LEVEL... 🟢`
+
+---
+
+## `$ developer_progress`
+
+| TECHNOLOGY   | STATUS                            |
+| ------------ | --------------------------------- |
+| `HTML / CSS` | ████████████████████ 95%          |
+| `JavaScript` | ██████████████████░░ 85%          |
+| `React`      | █████████████████░░░ 80%          |
+| `Node.js`    | ████████████████░░░░ 75%          |
+| `Express.js` | ████████████████░░░░ 75%          |
+| `MongoDB`    | ███████████████░░░░░ 70%          |
+| `Socket.IO`  | █████████████░░░░░░░ 65%          |
+| `AI / ML`    | ██████░░░░░░░░░░░░░░ INITIALIZING |
+
+---
+
+## `$ active_projects`
+
+```text
+┌── ~/projects
+│
+├── 📹 MEETING ROOM
+│   └── Real-time meeting application
+│       Node.js • Socket.IO • MongoDB
+│
+├── 🤝 PROJECT PARTNER FINDER
+│   └── Find developers and collaborate
+│       Real-time collaboration platform
+│
+├── 🏡 WANDERLUST
+│   └── Full-stack Airbnb-style application
+│       Node.js • Express • MongoDB
+│
+└── 🤖 SIGMAGPT
+    └── AI-powered application
+        API Integration
+```
+
+---
+
+# `$ stats --live`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Subhadeep2007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhadeep2007&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=FFFFFF&dates=AAAAAA"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep2007&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+# `$ git log --graph --live`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhadeep2007&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## `$ recent_activity.log`
+
+```text
+[●]  BUILDING REAL PROJECTS
+[●]  IMPROVING BACKEND ARCHITECTURE
+[●]  WORKING WITH REAL-TIME SYSTEMS
+[●]  PUSHING CODE TO GITHUB
+[●]  LEARNING EVERY DAY
+```
+
+```text
+> STATUS: ACTIVE
+> MODE: BUILDING
+> NEXT OBJECTIVE: LEVEL UP 🚀
+```
+
+---
+
+# 🧠 `$ philosophy`
+
+```javascript
+const developer = {
+  name: "Subhadeep Garai",
+
+  mindset: [
+    "Learn continuously",
+    "Build real projects",
+    "Understand the logic",
+    "Break things",
+    "Fix them",
+    "Keep improving"
+  ],
+
+  status: "CODING..."
+};
+
+while (developer.status === "CODING...") {
+  developer.skills++;
+}
+```
+
+---
+
+# 🐍 `$ contribution_snake`
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/Subhadeep2007/Subhadeep2007/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              > STAY CONSISTENT.                              ║
+║              > WRITE CODE.                                   ║
+║              > BUILD PROJECTS.                               ║
+║              > BREAK THINGS.                                 ║
+║              > FIX THEM.                                     ║
+║              > REPEAT. 🚀                                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=Subhadeep2007&label=SYSTEM+VISITORS&color=39FF14&style=flat-square"/>
+
+### `● SYSTEM STATUS: ACTIVE`
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│                 CODE • COMMIT • CONQUER 🚀                  │
+│                                                             │
+│                   LAST SYSTEM CHECK: LIVE                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
