@@ -1,262 +1,278 @@
  
-# `> SUBHADEEP2007_ SYSTEM BOOTED`
+
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+SYSTEM+INITIALIZING...;%3E+ACCESS+GRANTED...;%3E+SUBHADEEP+GARAI;%3E+FULL+STACK+DEVELOPER;%3E+BUILDING+REAL-TIME+SYSTEMS..." />
+> SUBHADEEP2007_ SYSTEM BOOTED
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B16,50:003B5C,100:00CFFF&height=180&section=header&text=SUBHADEEP%20GARAI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+FULL STACK DEVELOPER
+
+[ Building Scalable Web Apps | Clean Code | Real-Time Systems ]
+
+<p>
+  <a href="https://github.com/SUBHADEEP2007">
+    <img src="https://img.shields.io/badge/GitHub-020B16?style=for-the-badge&logo=github&logoColor=00D9FF" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-020B16?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-020B16?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+  </a>
+</p>
 
 </div>
 
----
-<div align="center">
+🟢 USER_PROFILE
 
-<img
-  src="./matrix-hacker-banner.png"
-  width="100%"
-  alt="Subhadeep2007 Hacker Developer"
-/>
+┌──────────────────────────────────────────────────────────────┐
+│                         SYSTEM USER                          │
+├──────────────────────────────────────────────────────────────┤
+│ NAME        : Subhadeep Garai                               │
+│ ROLE        : Full Stack Developer                           │
+│ LOCATION    : India 🇮🇳                                      │
+│ STATUS      : ● ONLINE / CODING                              │
+│ MODE        : BUILD → BREAK → FIX                            │
+└──────────────────────────────────────────────────────────────┘
 
-</div>
+> developer.info
 
----
----
- 🟢 `USER_PROFILE`
+$ whoami
 
-```text
-┌────────────────────────────┐
-│      [ SYSTEM USER ]       │
-├────────────────────────────┤
-│ NAME                       │
-│ Subhadeep Garai            │
-│                            │
-│ ROLE                       │
-│ Full Stack Developer       │
-│                            │
-│ LOCATION                   │
-│ India 🇮🇳                   │
-│                            │
-│ STATUS                     │
-│ ● ONLINE / CODING          │
-└────────────────────────────┘
-```
+Subhadeep Garai
 
-### `> developer.info`
+$ role
 
-```bash
+Full Stack Developer
+
 $ location
+
 India 🇮🇳
 
 $ current_focus
+
 Web Development
 Backend Systems
 Real-Time Applications
 AI / ML
 
 $ motto
+
 "Stay Curious.
  Keep Building."
-```
 
-## `SYSTEM_INFO`
+🟦 $ system_info
 
-```yaml
+<table>
+<tr>
+<td width="50%">
+
 OS: Windows 11
 IDE: VS Code
 Shell: PowerShell
 Status: Always Learning
 Mode: BUILD → BREAK → FIX
-```
 
-## `CONNECT WITH ME`
+</td>
+<td width="50%">
 
-<p align="center">
+┌────────────────────────────┐
+│      SYSTEM STATUS         │
+├────────────────────────────┤
+│ ● ONLINE                   │
+│ ● BUILDING                 │
+│ ● LEARNING                 │
+│ ● SHIPPING                 │
+└────────────────────────────┘
 
-<a href="https://github.com/Subhadeep2007">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
-</a>
+</td>
+</tr>
+</table>
 
-<a href="https://www.linkedin.com/in/subhadeep-garai-68a610326/">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
-</a>
+👨‍💻 $ about_me
 
-<a href="https://wa.me/917362999707">
-  <img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=39FF14" />
-</a>
+I'm a passionate Full Stack Developer from India who enjoys building real-world applications, understanding how systems work, and solving problems through code.
 
+I mainly work with the MERN stack, backend architecture, databases and real-time applications.
+
+> Build real projects
+> Understand the logic
+> Write clean code
+> Break things
+> Fix them
+> Learn something new
+> Repeat
+
+🛠️ $ skills --show
+
+FRONTEND
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
----
+BACKEND
 
-# `$ whoami`
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,socketio" />
+</p>
 
-```bash
+TOOLS & SYSTEM
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,powershell" />
+</p>
+
+📌 $ tech_stack
+
+Layer
+
+Technologies
+
+Frontend
+
+HTML, CSS, JavaScript, React, Tailwind CSS
+
+Backend
+
+Node.js, Express.js
+
+Database
+
+MongoDB
+
+Real-Time
+
+Socket.IO
+
+Tools
+
+Git, GitHub, VS Code, Postman
+
+Currently Exploring
+
+System Design, AI / ML
+
+🚀 $ active_projects
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+📹 Meeting Room
+
+Real-time meeting application
+
+Node.js
+Express.js
+MongoDB
+Socket.IO
+React
+
+Features
+
+🔐 Authentication
+
+🎥 Real-time meetings
+
+💬 Real-time chat
+
+📁 File sharing
+
+🔄 Socket.IO communication
+
+🛡️ Protected routes
+
+</td>
+
+<td width="33%" valign="top">
+
+🤝 Project Partner Finder
+
+Developer collaboration platform
+
+React
+Node.js
+Express.js
+MongoDB
+
+Features
+
+👤 Developer profiles
+
+🔎 Project discovery
+
+🤝 Partner matching
+
+💬 Collaboration
+
+🔐 Authentication
+
+🚀 Project-based networking
+
+</td>
+
+<td width="33%" valign="top">
+
+♟️ Wanderlust
+
+Hotel booking platform
+
+EJS
+Node.js
+Express.js
+MongoDB
+
+Features
+
+🏨 Hotel listings
+
+🔎 Search
+
+👤 User authentication
+
+📍 Location-based listings
+
+⭐ Reviews
+
+🛒 Booking workflow
+
+</td>
+
+</tr>
+</table>
+
+🎯 $ current_focus
+
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│        ███████╗██╗   ██╗██████╗ ██╗  ██╗ █████╗              │
-│        ██╔════╝██║   ██║██╔══██╗██║  ██║██╔══██╗             │
-│        ███████╗██║   ██║██████╔╝███████║███████║             │
-│        ╚════██║██║   ██║██╔══██╗██╔══██║██╔══██║             │
-│        ███████║╚██████╔╝██████╔╝██║  ██║██║  ██║             │
-│        ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝             │
+│  [✓] Building production-style backend systems               │
+│  [✓] Node.js + Express.js architecture                       │
+│  [✓] MongoDB & database design                               │
+│  [✓] Real-time systems with Socket.IO                        │
+│  [→] Improving system design                                 │
+│  [→] Preparing for AI / ML                                   │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-```
 
-<div align="center">
+📡 $ recent_activity.log
 
-# 🟢 `SUBHADEEP GARAI`
+[●] BUILDING REAL PROJECTS
+[●] IMPROVING BACKEND ARCHITECTURE
+[●] WORKING WITH REAL-TIME SYSTEMS
+[●] BUILDING MERN APPLICATIONS
+[●] PUSHING CODE TO GITHUB
+[●] LEARNING EVERY DAY
 
-### `FULL STACK DEVELOPER`
+> STATUS : ACTIVE
+> MODE   : BUILDING
+> NEXT   : LEVEL UP 🚀
 
-```text
-[ Building Scalable Web Apps | Clean Code | Real-Time Systems ]
-```
+🧠 $ philosophy
 
-</div>
-
----
-
-## `$ skills --show`
-
-### `FRONTEND`
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-
-</p>
-
-### `BACKEND`
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python&theme=dark" />
-
-</p>
-
-### `TOOLS & SYSTEM`
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-<img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
-
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=39FF14" />
-
-</p>
-
----
-
-## `$ current_focus`
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  [✓] Building production-style backend systems       │
-│  [✓] Node.js + Express.js architecture               │
-│  [✓] MongoDB & database design                       │
-│  [✓] Real-time systems with Socket.IO                │
-│  [→] Improving system design                         │
-│  [→] Preparing for AI / ML                           │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-### `SYSTEM_PROGRESS`
-
-```text
-██████████████████████████████████████░░  90%
-```
-
-`STATUS: LOADING NEXT LEVEL... 🟢`
-
----
-
-## `$ developer_progress`
-
-| TECHNOLOGY   | STATUS                     |
-| ------------ | -------------------------- |
-| `HTML / CSS` | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 95%   |
-| `JavaScript` | 🟩🟩🟩🟩🟩🟩🟩🟩🟩░ 85%    |
-| `React`      | 🟩🟩🟩🟩🟩🟩🟩🟩░░ 80%     |
-| `Node.js`    | 🟩🟩🟩🟩🟩🟩🟩░░░ 75%      |
-| `Express.js` | 🟩🟩🟩🟩🟩🟩🟩░░░ 75%      |
-| `MongoDB`    | 🟩🟩🟩🟩🟩🟩🟩░░░ 70%      |
-| `Socket.IO`  | 🟩🟩🟩🟩🟩🟩░░░░ 65%       |
-| `AI / ML`    | 🟩🟩🟩░░░░░░░ INITIALIZING |
-
----
-
-## `$ active_projects`
-
-```text
-┌── ~/projects
-│
-├── 📹 MEETING ROOM
-│   └── Real-time video meeting application
-│       Node.js • Socket.IO • MongoDB
-│
-├── 🤝 PROJECT PARTNER FINDER
-│   └── Find developers and collaborate
-│       Real-time collaboration platform
-│
-└── ♟️ WANDERLUST
-    └── Hotel booking platform
-        Built with ejs
-```
-
----
-
-# `$ stats --live`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Subhadeep2007&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=39FF14&ring_color=39FF14" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhadeep2007&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=39FF14&stroke=39FF14" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep2007&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14" />
-
-</div>
-
----
-
-# `$ git log --graph --live`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhadeep2007&bg_color=000000&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=003300&hide_border=true&custom_title=GitHub%20Contribution%20Activity" />
-
-</div>
-
----
-
-## `$ recent_activity.log`
-
-```text
-[●]  BUILDING REAL PROJECTS
-[●]  IMPROVING BACKEND ARCHITECTURE
-[●]  WORKING WITH REAL-TIME SYSTEMS
-[●]  PUSHING CODE TO GITHUB
-[●]  LEARNING EVERY DAY
-```
-
-```text
-> STATUS: ACTIVE
-> MODE: BUILDING
-> NEXT OBJECTIVE: LEVEL UP 🚀
-```
-
----
-
-# 🧠 `$ philosophy`
-
-```javascript
 const developer = {
   name: "Subhadeep Garai",
 
@@ -266,6 +282,7 @@ const developer = {
     "Learn continuously",
     "Build real projects",
     "Understand the logic",
+    "Write clean code",
     "Break things",
     "Fix them",
     "Keep improving"
@@ -277,55 +294,52 @@ const developer = {
 while (developer.status === "CODING...") {
   developer.skills++;
 }
-```
 
----
-
-# 🐍 `$ contribution_snake`
+📊 $ github_stats
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Subhadeep2007/Subhadeep2007/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://github-readme-stats.vercel.app/api?username=SUBHADEEP2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020B16&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHADEEP2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=020B16&title_color=00D9FF&text_color=FFFFFF" width="40%"/>
 
 </div>
 
----
+🔗 $ connect
 
 <div align="center">
 
-```text
+<a href="https://github.com/SUBHADEEP2007">
+<img src="https://img.shields.io/badge/GitHub-SUBHADEEP2007-020B16?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-020B16?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-020B16?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
+</a>
+
+</div>
+
+<div align="center">
+
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║              > STAY CONSISTENT.                              ║
-║              > WRITE CODE.                                   ║
-║              > BUILD PROJECTS.                               ║
-║              > BREAK THINGS.                                 ║
-║              > FIX THEM.                                     ║
-║              > REPEAT. 🚀                                    ║
+║              🚀 CODE • COMMIT • CONQUER                      ║
+║                                                              ║
+║                 STAY CURIOUS.                                ║
+║                 KEEP BUILDING.                               ║
+║                                                              ║
+║              ● SYSTEM STATUS: ACTIVE                         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
 
-<img src="https://komarev.com/ghpvc/?username=Subhadeep2007&label=SYSTEM+VISITORS&color=39FF14&style=flat-square" />
+> Thanks for visiting my profile!
 
-### `● SYSTEM STATUS: ACTIVE`
+BUILD → BREAK → FIX → LEARN → REPEAT
 
-</div>
-
----
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│                 CODE • COMMIT • CONQUER 🚀                  │
-│                                                             │
-│                   LAST SYSTEM CHECK: LIVE                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### `> Thanks for visiting!`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,50:003B5C,100:020B16&height=120&section=footer" width="100%"/>
 
 </div>
