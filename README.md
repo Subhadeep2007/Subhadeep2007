@@ -4,7 +4,9 @@
 
 <div align="center">
 
-<img src="https://your-animation-url/background.svg" width="100%"/>
+<img src="./FRONT.png" width="100%"/>
+
+<br/>
 
 # `> SUBHADEEP2007_ SYSTEM BOOTED`
 
@@ -32,6 +34,6 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&col
 
 <br/><br/>
 
-<img src="https://your-animation-url/background.svg" width="100%"/>
+<img src="./FOOTER.png" width="100%"/>
 
 </div>
