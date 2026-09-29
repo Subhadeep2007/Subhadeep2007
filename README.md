@@ -26,7 +26,7 @@
 
 </div>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="28"/> About Me
+🚀 About Me
 
 <table>
 <tr>
@@ -64,7 +64,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="28"/> Tech Stack
+🛠️ Tech Stack
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Languages & Tools
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px"/>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="28"/> GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
 
@@ -102,7 +102,13 @@ Languages & Tools
 
 <br/>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="28"/> Contribution Streak
+📈 Live GitHub Contributions
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SUBHADEEP2007&theme=radical&hide_border=true&ring=00F5D4&fire=F72585&currStreakLabel=00F5D4&sideLabels=F72585&dates=aaaaaa" alt="Live GitHub Contributions, Current Streak and Longest Streak"/>
+</p>
+
+🔥 Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=SUBHADEEP2007&theme=radical&hide_border=true&ring=ff4da6&fire=ff4da6&currStreakLabel=ffd700&sideLabels=00ffff&dates=aaaaaa" alt="GitHub Streak"/>
@@ -110,7 +116,7 @@ Languages & Tools
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="28"/> GitHub Trophies
+🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://trophy.ryglcloud.net/?username=SUBHADEEP2007&theme=radical&title=-Stars,-Issues,-Reviews&column=6&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies"/>
@@ -118,13 +124,13 @@ Languages & Tools
 
 <br/>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="28"/> Currently Learning
+🧠 Currently Learning
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=650&color=00F5D4&center=true&vCenter=true&width=700&lines=Node.js+%C2%B7+Express.js+%C2%B7+MongoDB;React+%C2%B7+Full+Stack+Development;Python+%C2%B7+Data+Science;AI+%2F+ML+%C2%B7+Machine+Learning" alt="Currently Learning"/>
 </p>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="28"/> Roadmap
+🎯 Roadmap
 
 Frontend
    ↓
@@ -138,7 +144,7 @@ AI / ML
    ↓
 AI Engineer
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="28"/> Let's Connect
+🤝 Let's Connect
 
 <p align="center">
 
@@ -163,8 +169,7 @@ AI Engineer
 <br/>
 
 <h2 align="center">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="25"/>
-Quote
+✨ Quote
 </h2>
 
 <p align="center">
@@ -175,6 +180,10 @@ Quote
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=500&color=7209B7&center=true&vCenter=true&width=550&lines=%E2%96%B6+BUILD+%C2%B7+LEARN+%C2%B7+REPEAT+%E2%97%80;%E2%96%B6+INNOVATE+%C2%B7+DEPLOY+%C2%B7+SCALE+%E2%97%80" alt="Footer Animation"/>
 </p>
 
+<!-- Dynamic visitor counter. This is a live counter from the counter service, not a static number. -->
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SUBHADEEP2007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=SUBHADEEP2007&label=Profile%20Views&color=00F5D4&style=for-the-badge" alt="Live Profile Views"/>
 </p>
+
+</div>
